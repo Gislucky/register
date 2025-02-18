@@ -3,6 +3,6 @@
         "username": "Hotomo"
     },
     "record": {
-        "RECORDTYPE": "AAAA"
+        "CNAME": "AAAA"
     }
 }
